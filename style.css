@@ -95,12 +95,12 @@ body{
 }
 
 .side-content{
-    background: #530f0f;
+    background: papayawhip;
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     align-items: center;
 
-    grid-area: aside;
+    grid-area: aside; 
 }
 
 .loader{
